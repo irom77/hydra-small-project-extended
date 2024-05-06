@@ -9,7 +9,7 @@ python -m pip install hydra-core pytorch-lightning torch torchvision tensorboard
 python .\train.py
 ```
 
-Run on vm.massedcompute.com
+# Run on vm.massedcompute.com
 
 ```
 Ubuntu@0017-dsm-prxmx30051:~/hydra-small-project-extended$ python3 train.py 
